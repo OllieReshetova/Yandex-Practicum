@@ -4,7 +4,7 @@
 
 ---
 
-<center><picture><img title='Программа обучения' src="https://i.ibb.co/g7TT3dw/programm.png" alt="program"></picture></center>
+<p align="center"><picture><img title='Программа обучения' src="https://i.ibb.co/g7TT3dw/programm.png" alt="program"></picture></p>
 
 ---
 
